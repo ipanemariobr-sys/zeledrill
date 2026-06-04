@@ -6,7 +6,7 @@
 下記URLをスマホのブラウザで開くだけで使えます。
 インストール不要・無料で利用できます。
 
-👉 https://.github.io/drill/
+👉 [https://.github.io/drill/](https://ipanemariobr-sys.github.io/zeledrill/)
 📝 問題内容
 全20問・4択形式
 
